@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="borrador" targetName="borrador" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="016e76f9-c177-451c-a941-0defd734b464" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="borrador" />
+  </component>
+  <component name="ProjectId" id="1bbMOkKcLu6dJxC4bBWyiRxcjK3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="borrador" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="borrador" TARGET_NAME="borrador" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="borrador" RUN_TARGET_NAME="borrador">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016e76f9-c177-451c-a941-0defd734b464" name="Default Changelist" comment="" />
+      <created>1588896309265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588896309265</updated>
+      <workItem from="1588896310539" duration="1400000" />
+      <workItem from="1589039683405" duration="5567000" />
+      <workItem from="1589058088282" duration="5861000" />
+      <workItem from="1589855865078" duration="3774000" />
+      <workItem from="1589902359645" duration="2593000" />
+      <workItem from="1589935561857" duration="2596000" />
+      <workItem from="1589987682234" duration="2734000" />
+      <workItem from="1590081882011" duration="1857000" />
+      <workItem from="1590162212581" duration="1357000" />
+      <workItem from="1590330525337" duration="5447000" />
+      <workItem from="1590537504636" duration="3939000" />
+      <workItem from="1590626320303" duration="656000" />
+      <workItem from="1590689367950" duration="64000" />
+      <workItem from="1590707666209" duration="23000" />
+      <workItem from="1590938907163" duration="13563000" />
+      <workItem from="1591306707349" duration="1516000" />
+      <workItem from="1591459190936" duration="67000" />
+      <workItem from="1591459676534" duration="4286000" />
+      <workItem from="1591659103071" duration="598000" />
+      <workItem from="1591935518371" duration="80000" />
+      <workItem from="1592064320315" duration="5559000" />
+      <workItem from="1592157481124" duration="5996000" />
+      <workItem from="1592177628111" duration="10907000" />
+      <workItem from="1592197559043" duration="750000" />
+      <workItem from="1592233389130" duration="1947000" />
+      <workItem from="1592325620000" duration="2306000" />
+      <workItem from="1593049334752" duration="2596000" />
+      <workItem from="1593098925178" duration="12272000" />
+      <workItem from="1593188183006" duration="1514000" />
+      <workItem from="1593210456357" duration="1987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
