@@ -1,3 +1,0 @@
-D:/chris/universidad/ciclo5/algoritmos/borrador/cmake-build-debug/CMakeFiles/borrador.dir
-D:/chris/universidad/ciclo5/algoritmos/borrador/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/chris/universidad/ciclo5/algoritmos/borrador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
