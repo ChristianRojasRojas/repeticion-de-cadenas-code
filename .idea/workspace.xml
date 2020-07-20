@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="borrador" targetName="borrador" />
+      <config projectName="proyect-repeticion-de-cadenas" targetName="proyect-repeticion-de-cadenas" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="016e76f9-c177-451c-a941-0defd734b464" name="Default Changelist" comment="" />
+    <list default="true" id="016e76f9-c177-451c-a941-0defd734b464" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FavoritesManager">
     <favorites_list name="borrador" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bbMOkKcLu6dJxC4bBWyiRxcjK3" />
   <component name="PropertiesComponent">
@@ -43,7 +49,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="borrador" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="borrador" TARGET_NAME="borrador" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="borrador" RUN_TARGET_NAME="borrador">
+    <configuration name="proyect-repeticion-de-cadenas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="proyect-repeticion-de-cadenas" TARGET_NAME="proyect-repeticion-de-cadenas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="proyect-repeticion-de-cadenas" RUN_TARGET_NAME="proyect-repeticion-de-cadenas">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -89,19 +95,39 @@
       <workItem from="1593098925178" duration="12272000" />
       <workItem from="1593188183006" duration="1514000" />
       <workItem from="1593210456357" duration="1987000" />
+      <workItem from="1595268068434" duration="167000" />
+      <workItem from="1595281765317" duration="1670000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>51</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/Crochemore.h</url>
+          <line>103</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Crochemore.h</url>
+          <line>99</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

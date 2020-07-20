@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/chris/universidad/ciclo5/teoria-de-la-computacion/proyect-repeticion-de-cadenas/Crochemore.h
+
+D:/chris/universidad/ciclo5/teoria-de-la-computacion/proyect-repeticion-de-cadenas/MertzLorentz.h
+
+D:/chris/universidad/ciclo5/teoria-de-la-computacion/proyect-repeticion-de-cadenas/main.cpp
+iostream
+-
+vector
+-
+map
+-
+unordered_set
+-
+MertzLorentz.h
+D:/chris/universidad/ciclo5/teoria-de-la-computacion/proyect-repeticion-de-cadenas/MertzLorentz.h
+Crochemore.h
+D:/chris/universidad/ciclo5/teoria-de-la-computacion/proyect-repeticion-de-cadenas/Crochemore.h
+
