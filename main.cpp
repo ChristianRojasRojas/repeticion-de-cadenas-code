@@ -8,10 +8,10 @@ using namespace std;
 #include "Crochemore.h"
 
 int main() {
-    string cadena;
+    string cadena,stop;
     cin >> cadena;
     mertzLorentz(cadena);
     cout << endl << endl;
     Crochemore(cadena);
-    cout << "stop";
+    cin >> stop;
 }
